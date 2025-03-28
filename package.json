@@ -1,6 +1,7 @@
 {
   "name": "practice-7-react",
   "version": "0.1.0",
+  "homepage": "https://ancherm.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
